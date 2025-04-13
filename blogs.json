@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "cover": "images/1.jpg",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_img": "images/boy1.png",
+    "author_name": "Mr. Raju",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": "5 min read",
+    "time": 5,
+    "hashtags": ["#beginner", "#pogramming"]
+  },
+  {
+    "id": 2,
+    "cover": "images/2.png",
+    "title": "Mastering CSS Flexbox in 10 Minutes",
+    "author_img": "images/girl1.jpg",
+    "author_name": "Mrs. Setara",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": "10 min read",
+    "time": 10,
+    "hashtags": ["#css", "#webdev", "#frontend"]
+  },
+  {
+    "id": 3,
+    "cover": "images/3.png",
+    "title": "The Rise of AI in Everyday Life",
+    "author_img": "images/boy2.png",
+    "author_name": "Mina Mostofa",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": "12 min read",
+    "time": 12,
+    "hashtags": ["#AI", "#tech", "#future"]
+  },
+  {
+    "id": 4,
+    "cover": "images/4.jpg",
+    "title": "A Minimalist's Guide to Productivity",
+    "author_img": "images/girl2.jpg",
+    "author_name": "Faozia Tasnim",
+    "posted_date": "Mar 14 (4 Days ago)",
+    "reading_time": "8   min read",
+    "time": 8,
+    "hashtags": ["#productivity", "#minimalism", "#lifestyle"]
+  }
+
+]
